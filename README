@@ -13,8 +13,8 @@ It has been tested on the following systems, but it should run on any system
 that supports python and wxpython.
 
 Linux:
-Tested on Gentoo, Suse, and Unbuntu
-Recieves testing when ever my vm doesn't eat my install
+Tested on Gentoo, Suse, and Ubuntu
+Receives testing when ever my vm doesn't eat my install
 
 Macintosh OS X:
 Primary development is on OS X so it recieves the most direct testing
